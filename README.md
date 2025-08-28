@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @ayahelang
-- 👀 I’m interested in Android App
-- 🌱 I’m currently learning Anything related to Android App easy app making
-- 💞️ I’m looking to collaborate on educational app
-- 📫 How to reach me is via email
+# Netic - Free Bootstrap Web Hosting Website Template
 
-<!---
-ayahelang/ayahelang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Preview
+
+ - [Demo](https://themewagon.github.io/Oberlo/)
+
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/oberlo/)
+ 
+ 
+## Getting Started
+
+Clone from Github 
+```
+git clone https://github.com/themewagon/Oberlo.git
+```
+
+## Author
+
+Design and code is completely written by HTML Design's design and development team.  
+
+
+## License
+
+ - Design and Code is Copyright &copy; [HTML Design](https://html.design/)
+ - Licensed cover under [MIT]
+ - Distributed by [ThemeWagon](https://themewagon.com)
+
